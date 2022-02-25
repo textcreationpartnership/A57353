@@ -1,0 +1,386 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon prech'd in the cathedral church of Norwich, at the funeral of the Right Reverend Father in God, Edward, Lord Bishop of Norwich, who departed this life, July 28, 1676 by B. Riveley ...</title>
+            <author>Riveley, Benedict, 1627 or 8-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57353</idno>
+            <idno type="STC">Wing R1548</idno>
+            <idno type="STC">ESTC R14652</idno>
+            <idno type="EEBO-CITATION">11845402</idno>
+            <idno type="OCLC">ocm 11845402</idno>
+            <idno type="VID">49827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57353)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49827)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 546:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon prech'd in the cathedral church of Norwich, at the funeral of the Right Reverend Father in God, Edward, Lord Bishop of Norwich, who departed this life, July 28, 1676 by B. Riveley ...</title>
+                  <author>Riveley, Benedict, 1627 or 8-1695.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Lowndes ... and William Oliver ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reynolds, Edward, 1599-1676.</term>
+               <term>Bible. --  O.T. --  Job XXX, 23 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English.</term>
+               <term>Sermons --  England --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49827:1"/>
+            <pb facs="tcp:49827:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd in the Cathedral Church of <hi>NORWICH,</hi> AT THE FUNERAL OF THE Right Reverend Father in GOD, EDWARD LORD BISHOP of <hi>NORWICH,</hi> Who Departed this Life, <hi>July</hi> 28. 1676.</p>
+            <p>By <hi>B. Riveley,</hi> one of his Lordſhips Chaplains, and Preacher in the ſaid City.</p>
+            <p>
+               <hi>Of whom the World was not worthy,</hi> Hebr. 11. 38.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sam. Lowndes</hi> near the <hi>Savoy</hi> in the <hi>Strand,</hi> and <hi>Wil<g ref="char:EOLhyphen"/>liam Oliver</hi> Bookſeller in the <hi>Market-place</hi> in <hi>Norwich.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:49827:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:49827:2"/>
+            <head>A Sermon Preach'd in the Cathedral Church of <hi>Norwich,</hi> at the Funeral of the Right Reverend Father in God, <hi>Edward,</hi> Lord Biſhop of <hi>Norwich,</hi> &amp;c.</head>
+            <epigraph>
+               <bibl>JOB XXX. 23.</bibl>
+               <q>For I know thou wilt bring me to death, and to the houſe appointed for all the living.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">N</seg>O Book of Scripture better furniſh'd with Funeral Texts than this of <hi>Job;</hi> and no Fu<g ref="char:EOLhyphen"/>neral could better deſerve a Text out of <hi>Job</hi> than this; being the Funeral of a Man fearing God, and eſchewing Evil; a Man perfect and up<g ref="char:EOLhyphen"/>right in his Generation; a Man patient, and holding faſt his Integrity to the laſt: But intending his juſt <hi>Encomium</hi> at the end of my Sermon, I ſhall ſay no more of Him now.</p>
+            <p>The words are doubly conſiderable to us, in their dependent, and in their abſtracted ſence.</p>
+            <p>That they have a Coherence, eaſily appears by the
+<pb n="2" facs="tcp:49827:3"/>
+Illative Particle, [<hi>For,</hi>] by which they are tack'd to ſomewhat ſaid afore: But to ſpend any of my time in giving you the various Conjectures of Expoſitors about their Connexion, would be hugely unjuſtifi<g ref="char:EOLhyphen"/>able, knowing my own mind of not handling them at all under this Conſideration; only this may be (<hi>obiter</hi>) obſervable to us, That <hi>Job</hi> was at preſent in ſad caſe—The dayes of Affliction had taken<note place="margin">Ver. 16, 17, 18.</note> hold upon him, he was diſeaſed in body, and reſtleſs through pain and ſickneſs, (as out of the foregoing Verſes may be learn'd) and he thought this a fit ſea<g ref="char:EOLhyphen"/>ſon wherein to contemplate humane frailty; and to conſider his own dying. He knew no Man at beſt was far diſtant from a Crave, or could entertain hopes of living alwayes; much leſs could he do ſo, that was at the brink of that place already; 'twas an eaſie and ſhort remove he knew for God to ſend him from his weary Pallet and ſick Bed, to his long and laſt Home. And poſſibly this was the Argument of his patience, that in all likelihood he had but a little while longer to endure. He was ſure (if nothing elſe could) his own Mortality at laſt would give him a <hi>Quietus est:</hi> The Grave is a period as to all earthly, Comforts, ſo to all worldly Croſſes and Perturbati<g ref="char:EOLhyphen"/>ons; and to this period <hi>Job</hi> Knew all muſt come, and himſelf among the reſt: <hi>For I know thou wilt bring,</hi> &amp;c.</p>
+            <p>But it is the entire and abſtract ſenſe of the words that I would come to, and I take them to contain in them a right comfortable, profitable, and practical Nation of Mans Mortality in general, and of thine and mine in particular. <hi>I [know] thou wilt bring [me] <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> death, and to the [houſe] appointed,</hi> &amp;c.</p>
+            <p>
+               <pb n="3" facs="tcp:49827:3"/>'Tis the ſpeech of a <hi>Job,</hi> that was not only a good Man himſelf, but an Exemplar of ſuch, and ſo refer'd to in the <note n="*" place="margin">Jam. 5. 11.</note> New Teſtament, and therefore when he ſaith, <hi>I know</hi>—'tis as much as if he had ſaid, I would have others to know it too—<hi>That God will bring them</hi> (every Mothers child of them) <hi>to death, and to the houſe,</hi> &amp;c.</p>
+            <p>Let us then carefully obſerve what the holy Man profeſſes to know here, and how, and thence draw Rules and Documents for our own preſent inſtructi<g ref="char:EOLhyphen"/>on and regulation of future practice. As</p>
+            <p>I. He knows the <hi>Grave,</hi> under the Metaphor of a <hi>Houſe</hi> (that is) he hath a comfortable Notion of that ſad, ſolitary, dark, ſilent place; for doubtleſs that is it he means by the <hi>Houſe of all Living.</hi> The Allegory is the very ſame, <hi>Chap. 17. 13. If I wait, the</hi>
+               <note place="margin">Job 17 13.</note> 
+               <hi>grave is mine houſe.</hi>
+            </p>
+            <p>From whence we may know thus much too—<hi>That</hi>
+               <note place="margin">Doct.</note> 
+               <hi>'tis in the power of Religion, and the grace of God, to frame in a Mans mi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> most comfortable and amiable Idea's even of dying, and being laid in the Grave: things otherwiſe most formidable and terrifying.</hi>
+            </p>
+            <p>He that ſayes here—<hi>I know that I ſhall dye,</hi> had ſaid before—<hi>I know that my Redeemer liveth. Job</hi> was a<note place="margin">Job 19. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Chriſtian by Anticipation, and <hi>embraced the promiſes afar off,</hi> (as the holy Men of the Old Teſtament are ſaid to do, <hi>Hebr.</hi> 11. 13.) His fearleſneſs and hope in his own death; ſprung from his faith in Chriſts Reſur<g ref="char:EOLhyphen"/>rection; and whoever they be that can plead a title to that victory of Jeſus (as well <hi>à poſteriori,</hi> as <hi>à pri<g ref="char:EOLhyphen"/>ori;</hi>
+               <note place="margin">Hebr. 13. 8.</note> 
+               <hi>for he is the ſame to day, that he was yeſterday</hi>) have a ſufficient foundation for the like courage and comfort in and about dying that he had.</p>
+            <p>
+               <pb n="4" facs="tcp:49827:4"/>Without a Chriſt, I can't excuſe any one from look<g ref="char:EOLhyphen"/>ing upon Death as a Ghaſtly thing, the King of Ter<g ref="char:EOLhyphen"/>rors, the greateſt of Temporal Evils, the diſſolution of Nature, the revenge of the Law for ſin; but there is a reverſe of this proſpect in the Goſpel, and by the virtue of Chriſts Religion. Here you may behold the Son of God as the great Lover of Souls, and Captain of their ſalvation, marching out of his glorious Tent into the Enemies Country, on purpoſe <hi>to deliver them</hi>
+               <note place="margin">Hebr. 2. 15.</note> 
+               <hi>that through fear of death, were all their life-time ſub<g ref="char:EOLhyphen"/>ject to bondage.</hi> Yea, here you may behold him ſet<g ref="char:EOLhyphen"/>ting his foot upon the neck of this <hi>Goliah,</hi> and diſ<g ref="char:EOLhyphen"/>arming<note place="margin">1 Cor. 15. 55, 56.</note> him of all his weapons, as St <hi>Paul</hi> repreſents him. Yea, here you may ſee him an actual Trium<g ref="char:EOLhyphen"/>pher, and weighty Conqueror, girt with a golden Girdle, and the Keyes of Death and Hell hanging at<note place="margin">Rev. 1. 13 18.</note> it, as in St <hi>Johns</hi> Viſion. Now <hi>Death is aboliſhed,</hi> (ſo the Apoſtle ſpeaks) (that is) as to its deadlineſs,<note place="margin">2 Tim. 1. 10.</note> poyſon, uglineſs, enmity. Now the Serpents ſting is pulled out, it can but lick and glide, it can't pierce and wound; like a Worm, it can only feed on the duſty part, the baſer mold, but the precious Soul is out of its reach. Now Hell is diſmounted from be<g ref="char:EOLhyphen"/>hind him that ſate on the pale Horſe, and though he<note place="margin">Rev. 6. 8.</note> may chance to look big, and threaten ſtill, yet he can<g ref="char:EOLhyphen"/>not kill and damn at the old rate. Yea, Death is now not only diſabled, but reconciled; Treacle is extracted out of this Viper; Honey is found in this Lyons Carkaſs; the Devils Cudgel is beaten to his own head, what he deſign'd for miſchief, is over-ruled into an inſtrumentality for the greateſt good; and whom he had ſet on work to be the worlds Butcher, proves the Chriſtians Prieſt to ſend up his Soul a Sacrifice to
+<pb n="5" facs="tcp:49827:4"/>
+God, and to preſerve his Body awhile in the Aſhes be<g ref="char:EOLhyphen"/>low. By the admirable grace of the Redeemer, of the moſt ſhun'd Foe, is made a kind Friend; of a griſly Worm, a familiar Confident; an amiable rud<g ref="char:EOLhyphen"/>dineſs is put into Deaths pale Cheeks, ſince the effuſi<g ref="char:EOLhyphen"/>on of Chriſts blood; by his being made a Curſe, Death becomes a bleſſing; that which was the puniſh<g ref="char:EOLhyphen"/>ment of Vice, proves the ſecurity of Virtue; which was the inſtrument of Juſtice, the token of Mercy; which was the diſſolution of Nature, the completion of Grace. Now Death is no longer the Saints loſs,<note place="margin">Phil. 1. 27.</note> but their gain; it turns to great account; 'tis put in<g ref="char:EOLhyphen"/>to their Inventory among their riches, <hi>Death is yours.</hi>
+               <note place="margin">1 Cor. 3. 21.</note> 'Tis no longer the grim Serjeant of their Judge, but their humble Servant, their officious Black and Slave to hold by the Hangings on their Clay Wall, till their Princely Spirit enters the Preſence Chamber of the great King; the Grave is no longer their Priſon, but their Houſe, their reſting place from their labours, their hinding place from the ſtorm, yea, 'tis <hi>Janua Vi<g ref="char:EOLhyphen"/>tae, Porta Coeli,</hi> their only paſſage into the eternal ſtate of bliſs and glory.</p>
+            <p>This is the victory of Chriſt. This is the effect of Chriſtianity, it doth not quite kill Death, but it makes that Death ſhall not kill us <note n="*" place="margin">There is a killing with death threat<g ref="char:EOLhyphen"/>ned, Rev. 2. 23.</note>; it does not cauſe us not to dye, but it certainly keeps us from being damn<g ref="char:EOLhyphen"/>ed; it wo'nt prevent our coming to a Grave, but it will mightily chear us in our paſſage thither, and ſo embalm us when we come there, that not a hair of our heads ſhall everlaſtingly periſh.</p>
+            <p>O Sirs I let us be able to know Death and a Grave<note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe.</note> after this comfortable rate, not fooliſhly to preſume
+<pb n="6" facs="tcp:49827:5"/>
+with <hi>Agag,</hi> but groundedly to hope with holy Souls, <hi>That the bitterneſs of Death is past.</hi> Let us approve<note place="margin">1 Sam. 15. 32.</note> our ſelves living Members of the great conquering Head Jeſus Chriſt, and ſo his victory will be our victo<g ref="char:EOLhyphen"/>ry; <hi>We ſhall be Conquerors too through him that loves</hi>
+               <note place="margin">Rom. 8. 37.</note> 
+               <hi>us;</hi> and Death ſhall have no more dominion over us, than it had over him. Let us endeavor an hearty and univerſal performance of the conditions and terms of the New Covenant, which are Repentance from dead Works, and Faith in Jeſus Chriſt, that we may there<g ref="char:EOLhyphen"/>by aſſure to our ſelves the ſaid promiſes and privi<g ref="char:EOLhyphen"/>ledges of the ſame Covenant. This way the Saints of God have alwayes come by their courage againſt, and their comfort in a dying hour.—This hath car<g ref="char:EOLhyphen"/>ried them to their Graves, with the ſame unconcer<g ref="char:EOLhyphen"/>nedneſs wherewith they paſs to their Beds every night. This made a holy <hi>David</hi> not afraid to <hi>paſs through the valley of the ſhadow of death.</hi> This made<note place="margin">Pſal. 23. 4.</note> a holy <hi>Job</hi> to claim Kindred of the worms and rot<g ref="char:EOLhyphen"/>tenneſs—<hi>I have ſaid to Corruption, Thou art my father: and to the Worm, Thou art my mother, and my ſiſter.</hi>
+               <note place="margin">Job 17. 14.</note> And to ſpeak as familiarly of his going to the Grave, as if he were a going to his Home—<hi>I know thou—wilt bring me to the Houſe appointed for all Living.</hi>
+            </p>
+            <p>So much for the firſt ſort of Notion which <hi>Job</hi> here profeſſes to have of his own Mortality, <hi>viz.</hi> comforta<g ref="char:EOLhyphen"/>ble and chearing—paſs we to the next kind of Notion thereof, which is reflexive and applicatory—<hi>I know thou wilt bring [me] to death, and to,</hi> &amp;c.</p>
+            <p>II. <hi>Job</hi> not only has a general Notion of Death, as the way of all Fleſh, and of the Grave, as the Houſe of all Living, but he has a particular Notion of both,
+<pb n="7" facs="tcp:49827:5"/>
+referring the caſe to himſelf. He knows, that as none can, no more can he put in Plea or Barr a<g ref="char:EOLhyphen"/>gainſt his coming to the Duſt, and being ere long a Tenant in that dreery Habitation, yet common re<g ref="char:EOLhyphen"/>poſitory of the Grave.</p>
+            <q>
+               <p>From whence we may pleaſe to know thus much too, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>That Good and Holy Men are not only convinc'd,</hi>
+                  <note place="margin">Doct.</note> 
+                  <hi>and knowing of other folks dying, but particularly of their own.</hi>
+               </p>
+            </q>
+            <p>To know that all muſt dye, is a Leſſon that few are ignorant of; he is a very dullard that is not come ſo far. This Nature teaches, Law obliges to, common Experience, and Obſervations, ratify and confirm.</p>
+            <p>There were but two, that we read of, <hi>Enoch</hi> and <hi>Elijah,</hi> (and they upon extraordinary priviledge, not for ordinary example) that balked the Grave in their paſſage to the other World. All others have laid their Heads down upon a green Turf, and dwelt with Worms, and ſuch like creatures, of an Equivocal Production. (The Sons and Daughters of their own Fleſh and Bones) in a Houſe of Dirt and Rotten<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>And there is a <hi>Muſt</hi> for this—as that wiſe <hi>Tekoite</hi> ſaid, <hi>We [Muſt] needs dye;</hi> there's neceſſity for it thus<note place="margin">2 Sam. 14. 14.</note> far; from the original Law of our Nature, and from the conſequential Law of our ſin: ſo that if God and Nature can hold us to conditions, we muſt needs dye.</p>
+            <p>
+               <pb n="8" facs="tcp:49827:6"/>I. Suppoſing Man innocent, he was yet mortal in his Nature, he was an excellent creature as he came out of Gods Hands, but yet but a Creature; 'twas never put into his Nature, that if he fell, he ſhould not break: he was a mixture of Heat and Cold, of Dryneſs, and Moiſture, compos'd of corruptible qua<g ref="char:EOLhyphen"/>lities and materials: only there was a poſſibility of not dying through the Divine Favour, and the Al<g ref="char:EOLhyphen"/>mighties ſupportation. He grew upon an immortal Root, (there was his ſecurity) but cut off from that, by his own degeneracy, he ſoon wither'd, and ſhew'd what he was:</p>
+            <p>II. In which laps'd condition, if you further con<g ref="char:EOLhyphen"/>ſider him, Death is made his Doom (as 'twas his Na<g ref="char:EOLhyphen"/>ture before) and as to the ſtroke of it, there is now no remedy (though as to the ſting of it there be.) '<hi>Tis appointed for men once to dye;</hi> 'tis now Sta<g ref="char:EOLhyphen"/>ture-Law,<note place="margin">Hebr. 9.: 7.</note> and has been executed through all ages, and will be ſo to the end of the World: <hi>Your Fa<g ref="char:EOLhyphen"/>thers, where are they? and the Prophets, do they live</hi>
+               <note place="margin">Zach. 1. 5.</note> 
+               <hi>for ever?</hi> that is in this world: where is <hi>Abraham,</hi> the Father of the Faithful, and <hi>David,</hi> the Man after Gods own Heart; and <hi>Lazarus,</hi> the Friend of Chriſt? the Patriarchs and Apoſtles, Men of all ſorts, under both Oeconomies of the Old and New Teſtamant, have long ſince taſted Death. If ever there had been any diſpenſation from dying, (I ſuppoſe) Chriſt would have brought it along with him, but I find no ſuch thing in the whole Goſpel Charter. 'Tis ſaid, <hi>there is no condemnation to them that are in</hi>
+               <note place="margin">Rom. 8. 1.</note> 
+               <hi>Chriſt Jeſus,</hi> but 'tis not ſaid, there is no Death. Juſt as God dealt by the Serpents in the Wilderneſs, ſo did Chriſt with Sin and Death in the Gospel-ſtate:
+<pb n="9" facs="tcp:49827:6"/>
+he did not preſently deſtroy all the Serpents, but took care, that whoever was ſtung with them, ſhould be healed—No more did Chriſt make Sin to be no Sin, or Death to be no Death, but he provided Pardon and Salvation, Balme and Cure in his own Bloud; he did not keep Men altogether from dying, becauſe he could do his Redeeming-work better without it; for it is more to the honour of his Grace, to make Men live in death, and in deſpight of it, than to continue a bare natural life unto him, and thus does our Saviour, not ſlaying this our Enemy out-right, by making him to drag his Chariot, and to ſubſerve ſome nobler End.</p>
+            <p>However, Death is Death ſtill, ſince Chriſt, at leaſt in the Phyſical Notion of it, if not altogether in the Moral. Duſt muſt turn to Duſt, Man muſt paſs into his firſt Principles. This curious frame of the Body muſt be diſſolv'd. The original Sentence thus far ſtands irrepealable: the ſinner muſt dye, and we are none of us ſinleſs, and though ſome of us may be better than others, yet no mans Grace or Vir<g ref="char:EOLhyphen"/>tue (no more than his Youth, or Wit, or Beauty, or Strength, or Wealth, or Greatneſs) can excuſe him from dying. This courteſie indeed it may do him—that he ſhall but dye (as the poor Lepers at the Gates of<note place="margin">2 Kings 7. 4.</note> 
+               <hi>Samaria</hi>)—He ſhall not dye over and over, the firſt and the ſecond Death: but yet dye he muſt; ſtill the Grave is the Landing-place of all Living, but Chriſt has taken Order, that in Hell none ſhall come but Hypocrites and Unbelievers.</p>
+            <p>But what need I wade further into this general Notion of Mortality—Every bodies knowledge is no bodies knowledge: the more common the ſpe<g ref="char:EOLhyphen"/>culation,
+<pb n="10" facs="tcp:49827:7"/>
+the leſs reflected on and conſider'd, 'Tis the Virtue onely of ſome men to lay the end of all Men to heart. <hi>Job</hi> was one of this high Proficiency,<note place="margin">Eccleſ. 7. 2.</note> in the School of the Grave—<hi>I know</hi> (ſays he to God) thou wilt bring [Me] <hi>to death, and the way that all goe, I ſhall follow:</hi> this is right profitable Knowledge—Knowledge with Application, and ſuch ſhould ours be.</p>
+            <p>This is the Chriſtian Philoſophy, to argue from the common condition of Man, to my own particu<g ref="char:EOLhyphen"/>lar concern.</p>
+            <p>To count my ſelf as much a Mortal, when I am well, and in health, as when I am under the imme<g ref="char:EOLhyphen"/>diate ſtroke of death, by ſickneſs, or ſome acute and deadly diſeaſe. To be able to approximate and appropriate never ſo far diſtant danger, and to ſee the evil day a great way off, through all the peri<g ref="char:EOLhyphen"/>ods of time, that are filled up with never ſo much Wealth, Honour, and temporal Proſperity, and to number my dayes, when they have few or no nights in them—I mean when they are all Glorying, and Sun-ſhine; and to ballance my Actions, Reſoluti<g ref="char:EOLhyphen"/>ons, and Affections, in, about, and towards the world, and its injoyments with ſuch preſent Meditations and thoughts as theſe—</p>
+            <p>Am I not of the Order of Gods Creatures here below? Brother to the Worms, Siſter to the Duſt? Is not my Breath in my Noſtrils, where there is room for it to go out, and poſſibility for it never to re<g ref="char:EOLhyphen"/>turn? may not God this night take me away from theſe things? be I never ſo great, may I not by and by, inſtead of mine Honour; be laid under mens Feet? Inſtead of my Purple and Soarlet, be oloath<g ref="char:EOLhyphen"/>ed
+<pb n="11" facs="tcp:49827:7"/>
+with rottenneſs (as <hi>Joh</hi> ſpeaks) and inſtead of my Delicacies and Luxuries, become my ſelf, Worms<g ref="char:EOLhyphen"/>meat? Is not the time a coming apace, when, of all my rich Silks and Naperies, I ſhall have nothing left me but my Winding-ſheet? of all my Houſes and Lands, nothing but the length of my Grave?</p>
+            <p>I confeſs this is hard, ordinarily for Men to be made to think otherwiſe of this condition, than they at preſent find and feel; 'tis difficult while they are in Life and Health, in Youth and Bloud, in Proſ<g ref="char:EOLhyphen"/>perity and Affluence, to caſt their thoughts into ſuch a mould as this; Men are loth to fright away their plea<g ref="char:EOLhyphen"/>ſures with a Deaths-head, and they are ready to conceit fooliſhly, that an applioation of death to themſelves, after this rate, is a kind of preſage, and ominous in<g ref="char:EOLhyphen"/>vitation of it, and will make it come, ſooner than it otherwiſe would; (a miſtake like that of ſome ſu<g ref="char:EOLhyphen"/>perſtitious perſons, who forbear making their Wills, for fear of thereby haſtening their ends) But the vaſt Spiritual profit of this courſe, will recompenſe its uneaſineſs to the Fleſh, and I dare aſſure thoſe that conſcienciouſly uſe it, that they Will thereby make their lives much the better, but not a whit the ſhorter.</p>
+            <p>And therefore I ſhall hence exhort you all, to ſtu<g ref="char:EOLhyphen"/>dy<note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe.</note> to attain this Chriſtian ſagacity, and to know Death and the Grave, beyond the Theory; when you ſee death in other folks brows and Viſages. feel it at the ſame time in your own Pulſes and Bowels. Apply all Lectures, Notices, and Moniti<g ref="char:EOLhyphen"/>ons of Mortality, wherever you meet with them, unto your ſelves, and for Gods ſake, let not this be loſt—</p>
+            <p>
+               <pb n="12" facs="tcp:49827:8"/>Let not one Funeral proceſſion be a matter only of cuſtom and formality to you; and when you ſee a friend or a neighhor laid in his Grave, don't only ſhake your Head, and ſay, This is it we muſt all come to, but lay the Providence to your Heart, goe home, and ſet your whole Houſe in Or<g ref="char:EOLhyphen"/>der, and alwayes remember (for ought you can tell to the contrary) your own turn may be next; There's not a Corps goes to the Duſt, but we ſhould have the Wit and the Grace (as in a broken Glaſs) to ſee our own Faces there.</p>
+            <p>III.—But I proceed to the third and laſt obſervable out of the words. <hi>Job</hi> knew other men dyed, and he himſelf ſhould dye, ſo as to be the better for that his knowledge.</p>
+            <p>That common Rule in Divinity (that words of Knowledge in Scripture-phraſe, do connotate both Affections and Actions, ſutable to that knowledge) is here of uſe.</p>
+            <p>When the Holy man ſays here [I know] 'tis as much as if he had—I ſo know I ſhall dye, and be buri<g ref="char:EOLhyphen"/>ed as well as others, that I will take care to live accord<g ref="char:EOLhyphen"/>ingly.—'Tis not only my obſervation that others dye, and my opinion that I my ſelf ſhall dye, but 'tis my reſolution to practice according to both. 'Tis the knowledge of my Heart and Will, as well as of my Head, and Underſtanding.</p>
+            <p>If theſe words be not meant thus, there's little or no great matter in them, for a <hi>Job</hi> to ſpeak; but if there be, we may know thus much from them again.</p>
+            <p>
+               <pb n="13" facs="tcp:49827:8"/>
+               <hi>That 'tis a chief part of a mans wiſdom to know</hi>
+               <note place="margin">Doct.</note> 
+               <hi>Death practically: to know it for his good, to do him good, and to make him good.</hi>
+            </p>
+            <p>
+               <hi>Job</hi> knew it thus, and he ſeems here to boaſt kind<g ref="char:EOLhyphen"/>ly of it, not barely to profeſs it [I know] thou wilt bring me, <hi>&amp;c.</hi>
+            </p>
+            <p>'Tis true, I muſt dye, that any one may ſay, but<note place="margin">Job 5. 27.</note> that won't ſatisfy a wiſe, holy Man; he enquires fur<g ref="char:EOLhyphen"/>ther, Am I fit to dye? Is my work done? Have I got Oil in my Lamp to meet the Bridegroom with<g ref="char:EOLhyphen"/>al? Is my Peace made with God? Are my Accounts<note place="margin">1 Tim. 6. 19.</note> ready? Have I laid up a good foundation againſt the time to come, that I may lay hold on Eternal Life, when I let goe my hold on this life?</p>
+            <p>A mans knowing to ſuch purpoſes as theſe, that he ſhall dye, <hi>viz.</hi> to put him upon ſuch enquiries, and upon endeavours conſequent upon ſuch enquiries, is a great degree of Spiritual Wiſdom, and Religion.</p>
+            <p>—As may appear by the natural effects of it, which are two great ones, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. To make a man live more Holily,</item>
+               <item>2. To make a man dye more hopefully, than otherwiſe he would.</item>
+            </list>
+            <p>1. 'Twill make him live better in ſeveral particu<g ref="char:EOLhyphen"/>lars, as,</p>
+            <p>1. It will not let him ſin in quiet. A Chriſtian con<g ref="char:EOLhyphen"/>ſiderate of his latter end, can't commit ſin at the rate of other men, no temptations can be offer'd him, but it will beget ſuch queſtions as theſe. Is it fit for a dying man to enterprize? Can I appear before God with ſuch a thing laid to my charge? Am I
+<pb n="14" facs="tcp:49827:9"/>
+going (I know not how ſoon) to give up my Ac<g ref="char:EOLhyphen"/>counts, and ſhall I run upon a new ſcore? perhaps this may be the laſt Act of my Life, and ſhall I con<g ref="char:EOLhyphen"/>clude ſo ill? Shall I let my Sun ſet in a cloud? Shall I kill my ſelf with death? Shall I arm my Enemy with a freſh ſting? Shall I commit thoſe things, which if they haſten not my end, will certainly make it more uneaſie by reflection upon them?</p>
+            <p>2. It will repreſs in a Man the rankneſs and wild<g ref="char:EOLhyphen"/>neſs of ſinful Luſts and Affections, ſuch as Ambition, Covetouſneſs, and all Licentious practice. 'Twill watch him tame and ſober, and make Religious pre<g ref="char:EOLhyphen"/>cepts and counſels dwell deep in the Soul, and take impreſſion. Thus the <hi>Cynick</hi> taught the <hi>Macedonian</hi> Prince how to get greater Victories over himſelf, than over others, by carrying him to his Fathers Tomb. And I have heard of a great <hi>Deboichee</hi> that was migh<g ref="char:EOLhyphen"/>tily chang'd, by this holy Artiſice of a dying Friend, who to the bequeſt of a Ring with a Deaths head, an<g ref="char:EOLhyphen"/>nex'd this condition, <hi>That he ſhould conſtantly wear it, and one hour in a day, for ſeven dayes together, look, and think upon it.</hi> This is St <hi>Paul</hi>'s Argument, <hi>The time is</hi> 
+               <note place="margin">1 Cor. 7. 29, 30, 31.</note> 
+               <hi>ſhort, let them that have Wives, be as if they had none: And they that rejoyce, as if they rejoyced not: And they that uſe this World, as not abuſing it: For the faſhion of this World paſſeth away.</hi> And it is S<hi rend="sup">t</hi> 
+               <hi>Peter's</hi> too—<note place="margin">1 Pet. 2. 11.</note> 
+               <hi>I beſeech you as Pilgrims and Strangers, abſtain from fleſhly Luſts.</hi> That muſt needs be a lewd, ungoverna<g ref="char:EOLhyphen"/>ble intemperance, that will be drunk out of a Scull, and Revel it in a Charnel-houſe.</p>
+            <p>3. It will quicken a Man to the Duties of Religion; make him more frugal of his time, hold him cloſer to his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the great errand of his life, and keep
+<pb n="15" facs="tcp:49827:9"/>
+him watchful againſt Neglects and Errors. What S<hi rend="sup">t</hi> 
+               <hi>Peter</hi> writes to the ſcatter'd Chriſtains, (<hi>I will put you in remembrance, knowing that ſhortly I must put off</hi>
+               <note place="margin">2 Pet. 1. 13.</note> 
+               <hi>this Tabernacle</hi>) is the conſtant language of a Man knowing after this example of <hi>Job</hi> in my Text. I will do all the good, and receive all the good I can, know<g ref="char:EOLhyphen"/>ing that I ha'nt long to live. I'll make as ſure, and as quick work as I can for my Soul, ſince I have ſo little ſecurity in the earthly Houſe of this Tabernacle. Scri<g ref="char:EOLhyphen"/>pture meaſures our Life-time by a Day, and Death is call'd a Night. Now we all know Day-time is Work<g ref="char:EOLhyphen"/>ing-time; in Alluſion to which our Saviour ſayes of himſelf, <hi>I must work the works of him that ſent me, while</hi>
+               <note place="margin">John 9. 4.</note> 
+               <hi>'tis day: the night cometh when no man can work.</hi>
+            </p>
+            <p>And juſt thus the wiſe Chriſtian takes his meaſures too. His knowledge of his much work to do, and his little time to do it in, wo'nt ſuffer him to loſe any opportunity, leſt he ſhould be benighted in his work; but <hi>whatſoever his hand finds to do, he does it with all his might, knowing there is no work, nor device, nor</hi>
+               <note place="margin">Ecc'. eſ. 9. 10.</note> 
+               <hi>knowledge, nor wiſdom in the Grave, whither he is a going.</hi>
+            </p>
+            <p>No better way to keep Fire alive, than in its own Aſhes; and if there be any ſparks of Reaſon or Re<g ref="char:EOLhyphen"/>ligion in our Souls, any ſenſe of God and our Duty, nothing will<note n="*" place="margin">2 Tim. 1. 6.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſtir and blow them up,</hi> and kindle from them religious affections, and pious per<g ref="char:EOLhyphen"/>formances, better than this knowledge and conſidera<g ref="char:EOLhyphen"/>tion of our own mortality.</p>
+            <p>Laſtly, This will make a Man dye more comforta<g ref="char:EOLhyphen"/>bly, as well as live better. This is a way to make Death no Bugbear, by being acquainted with it in our life-time. To prevent the killing eye of this Baſilisk,
+<pb n="16" facs="tcp:49827:10"/>
+by ſeeing it, before it ſees us. To make the ending of a natural, animal Life, to be the beginning of a divine, eternal Life, by dying before we dye, that is, in a believing proſpect of it, and proviſion for it.</p>
+            <p>This I take to be the great governing Virtue, and Miſtreſs of Morals, call'd <hi>Prudence,</hi> which is nothing elſe but <hi>Providence</hi> under a contracted name, and all other wiſdom and knowledge muſt vail unto it. I find two of the beſt and greateſt men in the Bible aſpi<g ref="char:EOLhyphen"/>ring and ſuſpiring after this knowledge, bending all their endeavors and prayers for the attainment of it.</p>
+            <p>
+               <hi>David</hi> prayes thus—<hi>Lord, make me to know my end,</hi>
+               <note place="margin">Pſal. 39. 4.</note> 
+               <hi>and the meaſure of my dayes what it is: that I may know how ſrail I am.</hi> 'Tis not to be underſtood as if he deſired to know in a literal ſence what year or day his Life ſhould end, but in a ſpiritual ſence how he ſhould end it well any day of the year, or any hour of the day. Doubtleſs he was a Man given to pious medita<g ref="char:EOLhyphen"/>tion, and his thoughts had been in the duſt before now, but he could not bring his heart and will to that practical knowledge of his own frailty which he de<g ref="char:EOLhyphen"/>ſir'd, and therefore he turns to God—<hi>Lord, make me,</hi> &amp;c.</p>
+            <p>
+               <hi>Moſes</hi> another great Man, and skill'd in all the wiſ<g ref="char:EOLhyphen"/>dom of the <hi>Egyptians,</hi> prayes thus—<hi>Lord, teach me to</hi>
+               <note place="margin">Pſal. 90. 12.</note> 
+               <hi>number my days, that I may apply my heart unto wiſdom.</hi> He had been numbring his own, and all other Mens<note place="margin">Yer. 10.</note> dayes a little before, and he could tell no further than three or fourſcore years, but what was this towards the application of his heart to wiſdom? We need but little Arithmetick to number our dayes, but we need a great deal of Grace to number them, ſo as to be the
+<pb n="17" facs="tcp:49827:10"/>
+wiſer and the better for it. Even a <hi>Moſes</hi> prays for this—Pray we therefore for the wiſdom of theſe holy<note place="margin">Uſe</note> Men, and for the knowledge of a <hi>Job—That we may know</hi> (as he did) <hi>God will bring us to death, and to the Houſe appointed for all Living.</hi>
+            </p>
+            <p>All this while I have diſcours'd you as at com<g ref="char:EOLhyphen"/>mon Funeral, now let me offer ſomewhat more pro<g ref="char:EOLhyphen"/>perly Calculated for this Meridian and Occaſion, <hi>viz.</hi> The Funeral of Dr. <hi>Edward Reynolds,</hi> late Lord Biſhop of this Dioceſs.</p>
+            <p>What I have hitherto ſaid, concern'd you in your general capacity as mortal Men, and Citizens of the World; but now I have a few words to you, as Citi<g ref="char:EOLhyphen"/>zens of <hi>Norwich,</hi> as Members of this Dioceſs, and as ſurviving Pupils of this Holy and Reverend Father; whoſe Soul is with God, but his Body ſtill with us. Once hugely uſeful, yet by and by to be laid up in the common Repoſitory of the Grave, as an uſeleſs piece of Clay.</p>
+            <p>'Tis a great (though no ſudden) change you have liv'd to ſee—The Mitre and the Croſire both laid in the duſt. Your Maſter <hi>Elijah</hi> taken from your head to day. A great Man fallen in <hi>Iſrael.</hi> Death has play'd a mighty Prize, and triumph'd over Learning and Authority, and ſweet Nature and Goodneſs, and great Experience and Wiſdom, and an honourable Age, at one blow. God has ſmote our Shepherd, and we are left for preſent as a ſcatter'd Flock. What ſhall we do now? Why, you have done well already, in your ſad and ſolemn Proceſſion to this place, to con<g ref="char:EOLhyphen"/>dole your Loſs, to bring this your true Friend part of his journey towards his long home. Once Angels diſ<g ref="char:EOLhyphen"/>dain'd not to carry a poor <hi>Lazarus</hi> towards his eter<g ref="char:EOLhyphen"/>nal
+<pb n="18" facs="tcp:49827:11"/>
+reſt; and therefore the beſt of you being but <hi>Lazars</hi> of ſin and miſery, have done nothing be<g ref="char:EOLhyphen"/>yond your Duty, in paying thoſe your laſt Reſpects to your departing Angel. He had your Prayers while he liv'd, and he deſerves as well your Tears now he's dead: And herein moſt of all you have reaſon to ſor<g ref="char:EOLhyphen"/>row (as the <hi>Epheſian</hi> Elders did for S<hi rend="sup">t</hi> 
+               <hi>Paul</hi>) that you ſhall ſee his Face no more, you ſhall feel his Hand no more, you ſhall hear his Voice no more. But is this all you can afford? to hear a Sermon at the Funeral, or ſprinkle a Tear upon the Herſe of ſo eminent a Ser<g ref="char:EOLhyphen"/>vant of Chriſt and of your Souls? Have you nothing but a little Roſemary and Bayes wherewith to per<g ref="char:EOLhyphen"/>fume? nothing but a few bring drops wherein to preſerve ſo excellent a Memory? Shall this great Light go out as a Gloworm at the Hedge bottom, with no greater noiſe than you can make with your eyes? I hope not ſo; but rather that you will remember him that had once the Rule over you, and has often ſpo<g ref="char:EOLhyphen"/>ken to you the Word of God, that you will follow his Faith, acknowledge the Gifts and Graces of God that were in him, and the good that has been done to you by him. That you will tranſcribe his excellent pattern into your Lives, dreſs by his Glaſs, and walk in the light of his Fires. In a word, I hope that you will hear him, and love him, and reverence him, and obey him, as long as he Preaches to you, and then I am ſure you can't ceaſe to do ſo now, for Dead as well as Living, he is ſtill a Preaching Biſhop. His Coffin is his Pulpit, his Grave is his Temple, and he ſtill teaches you, though he ſayes never a word, <hi>viz.</hi> by his pious and moſtinſtructive example left unto the world, by his fair character and good report eaſily and deſer<g ref="char:EOLhyphen"/>vedly
+<pb n="19" facs="tcp:49827:11"/>
+obtainable from others concerning him. Now he is in Heaven, he lives in his good Name upon Earth, as when he was upon Earth, he liv'd by his good heart in Heaven. Death has but done us a cour<g ref="char:EOLhyphen"/>teſie by breaking the Box, to make the precious oynt<g ref="char:EOLhyphen"/>ment of his Fame to have a more fragrant and diffu<g ref="char:EOLhyphen"/>ſive ſavor.</p>
+            <p>What St <hi>Paul</hi> in his famous Funeral Oration for departed Saints, <hi>Hebr.</hi> 11. ſayes of <hi>Abel,</hi> perfectly agrees to him; he has <hi>obtained witneſs that he was righteous; and being dead, yet ſpeaketh:</hi> that is, not with his own lips (too cold and ſtiff (God knows) though Prieſts, yea, Biſhops lips, either to preſerve, or to derive knowledge) but by the lips of others that knew him, and can bear faithful Teſtimony to his Virtues and Memory. Among whom I have the hap<g ref="char:EOLhyphen"/>pineſs to be able to profeſs my ſelf one, though of all others moſt unfit, moſt unworthy to be the Encomiaſt of ſo great a Perſon—<hi>Vir nec taoendus nec dicendus</hi>—A Man of whom I can't be ſilent, without detriment to the Church, and diſhonour to God; and yet a Man of whom I can't ſpeak without loſs to his merit, and diminution to his worth. O then for another <hi>Eliſha</hi> to follow this our going <hi>Elijah</hi> with his due Ac<g ref="char:EOLhyphen"/>clamation and Eulogy, <hi>My Father, My Father, the Chariots of</hi> Iſrael, <hi>and the Horſemen thereof.</hi>
+            </p>
+            <p>O now for one of his own Order and Spirit, and meaſures of Learning and Grace, to write and tell his Story. But ſince this is rather our wiſh, than our at<g ref="char:EOLhyphen"/>tainment, I ſee no remedy, but you muſt be content with an Eccho for a Voice, with a rude Draught for a fair Effigies, only with this additional promiſe from your deficient Orator, That what he wants in skill, he
+<pb n="20" facs="tcp:49827:12"/>
+will make up in faithfulneſs; neither flattering him he ſpeaks of, nor fearing them he ſpeaks to, though there ſhould chance to be among them ſome of that peeviſh and ill humor, as to make a ſcruple to com<g ref="char:EOLhyphen"/>mend the Dead though never ſo deſerving, but none at all to calumniate the Living.</p>
+            <p>Concerning this our Deceaſed and juſtly to be Commemorated Lord and Father, I ſhall dare to re<g ref="char:EOLhyphen"/>commend thus much as true to ſucceeding Generati<g ref="char:EOLhyphen"/>ons, <hi>viz. That he was a Perſon in whom all was general<g ref="char:EOLhyphen"/>ly good, (allowing for humane ſrailties) and many things were excellent, and exceeding remarkable.</hi> Of which only Materials I ſhall compoſe his following Character. As for other Ornamentals and Additio<g ref="char:EOLhyphen"/>nals,</p>
+            <lg>
+               <l>Et Genus &amp; Proavos—</l>
+               <l>—Et quae non fecimus ipſi.</l>
+            </lg>
+            <p>I ſhall lightly paſs them by. To tell you of his Birth, Place of his Gentile Extraction, of his Liberal Edu<g ref="char:EOLhyphen"/>cation, of his Advantageous Inſtitution, of his Gra<g ref="char:EOLhyphen"/>dual Promotions and Employments in the Univerſity, in the Countrey, in the City, in the Church. To tell you of the ſeveral great Ranks wherein this great Light did both ſhine and burn. To tell you how he paſs'd the ſtate of his Childhood, the courſe of his Studies in his Youth, and how he arrived at the Epiſ<g ref="char:EOLhyphen"/>copal Chair and Dignity in his old Age. Theſe be<g ref="char:EOLhyphen"/>ing things wherein I am not ſo fully informed as 'tis fit I ſhould be ere I relate them to others, and whereof he himſelf, being of a ſingular Modeſty and Humili<g ref="char:EOLhyphen"/>ty, was not wont to ſpeak, and whence we can re<g ref="char:EOLhyphen"/>ceive but little benefit though expreſt, I ſay, being
+<pb n="21" facs="tcp:49827:12"/>
+ſuch things, I ſhall chooſe not to be more particular in them. The Pearl needs no Art, 'tis beautiful enough in its own Luſtre. 'Tis not painting the Pro<g ref="char:EOLhyphen"/>phets Sepulchre that I intend, but deſcribing the Pro<g ref="char:EOLhyphen"/>phet himſelf, that you may know in him you had a Pro<g ref="char:EOLhyphen"/>phet of the Lord amongſt you, and neither the duſt of his Feet while alive, nor the duſt of his Grave while dead, may be us'd as a Teſtimony againſt you unawares.</p>
+            <p>Firſt then, <hi>He was univerſally good.</hi> That is, pro<g ref="char:EOLhyphen"/>portionably fitted and qualified to all his capacities, both <hi>as a Man, as a Chriſtian, as a Miniſter,</hi> and <hi>as a Biſhop.</hi>
+            </p>
+            <p>I. <hi>He was a good Man.</hi> Nature had before indu'd him much in his conſtitution, he was of a moſt ſweet and obliging temper, of great candor, meek<g ref="char:EOLhyphen"/>neſs and ingenuity; he had a comely countenance, a gentle diſpoſition, a pleaſantneſs of converſation; there was no monſtroſity in his Body, nor inverſion of Natures order in his Soul; Reaſon ſat as Queen there, and Paſſion and Appetite were as Handmaids in their natural places and meaſures. There were no brutiſh luſts, no unreaſonable deſires, no furious tranſ<g ref="char:EOLhyphen"/>ports to be found in him; he neither eagerly ſought any dignity, nor declin'd any capacity of doing good. But</p>
+            <p>II. <hi>He was a good Chriſtian.</hi> Revelation was a great Miſtreſs with him, and he was a great Adorer, as well as Practiſer of the Will of God. Religion ſan<g ref="char:EOLhyphen"/>ctified his Reaſon, and Grace his Nature; and of all
+<pb n="22" facs="tcp:49827:13"/>
+Accompliſhments, he counted it his glory to be a Diſ<g ref="char:EOLhyphen"/>ciple of Chriſt. The fear of the Lord was to him the top of his wiſdom. He put on the Lord Jeſus Chriſt in all his integral parts, and endeavoured that his wayes might be found perfect before God. He was none of the lame and criple Chriſtians of theſe dayes, that hope to go to Heaven with one wooden Leg. He was careful to maintain good Works (I ſpeak it knowingly) as the neceſſary fruits of Chri<g ref="char:EOLhyphen"/>ſtian Faith, and ſuch Works as are due to Men, as well as thoſe that have a more immediate reſpect to God. To honour his King, to ſpeak well of his Superiors, to be obedient to Laws in Church and State, to govern his Tongue, to love his Neighbors, and to take the worſt Enemies he had in the world into the number; this was his Religion: 'Twas a piece of his Con<g ref="char:EOLhyphen"/>ſcience to do theſe things, as well as to Preach, and to Pray, and to frequent the Worſhip of God.</p>
+            <p>III. <hi>He was a good Miniſter of the Goſpel.</hi> For this he had a great name, all his undignifyed time, and when he came to the High-place, he did not make an end of Prophecying, as 'tis ſaid <hi>Saul</hi> did.<note place="margin">1 <hi>Sam.</hi> 10. 13.</note> He was a true Labourer in the Word and Doctrine. He was not onely the Light, but the Salt of all the places he came in. He did much good in that his Office: and receiv'd the Seal of his Miniſtry, in the ſober and grateful acknowledgements of a great ma<g ref="char:EOLhyphen"/>ny. He was built and fram'd on purpoſe (as it were) to be an Inſtructor and Curate of Souls, for he was ſober and wiſe, able to ſolve difficulties, to deter<g ref="char:EOLhyphen"/>mine caſes, to quiet Conſciences. He was an interpre<g ref="char:EOLhyphen"/>ter, one of a thouſand. Another <hi>Apollo's</hi> Mighty in
+<pb n="23" facs="tcp:49827:13"/>
+the Scriptures. He always ſought to find out accep<g ref="char:EOLhyphen"/>table words, and upright even words of Truth. He was of a ſedate mind, of a tender compaſſionate Spi<g ref="char:EOLhyphen"/>rit, heartily deſirous of mens Eternal Good; and not onely his Induſtry, but his delights ran out that way, <hi>viz.</hi> how to bring it about.</p>
+            <p>The Throne of Grace, his Study, and the Pulpit had the moſt of his time divided among them. In all probability he contracted his fatal diſeaſes of the Stone and Strangury, with his ſedentary Studies, and vaſt Labours in the Prieſtly Function: yet to his dying day, Preaching was his deſirable Work. <hi>Praelucendo peribat,</hi> might be his Motto, <hi>for he wore out with <g ref="char:V">Ʋ</g>ſe, and not with Ruſt.</hi>
+            </p>
+            <p>IV. <hi>He was a good Biſhop.</hi> And now I am come to that onely part of his commendation, that ever was deny'd him.</p>
+            <p>There was two ſorts of people, and they differ among themſelves <hi>toto coelo,</hi> that can hardly allow him to have been a good Biſhop; the one ſort think him not good, becauſe a Biſhop at all, making thoſe terms, <hi>Good,</hi> and <hi>Biſhop</hi> inconſiſtent, but theſe are abſurd, and unreaſonable men, and their tongues is no ſlander, and I trouble my ſelf no further with them; the other can't afford him to be good in his capacity, becauſe he was not ſo much a Biſhop, as they would have had him, that is to ſay, becauſe he would not drive their pace; he would not govern by their Rules, not execute Cenſures at their heights, not interpret Canons in their ſence. <hi>Phaebus</hi> muſt let
+<pb n="24" facs="tcp:49827:14"/>
+               <hi>Phaeton</hi> have the Reins, and then the Chariot ſhall be better manag'd. <hi>David</hi> muſt give place to <hi>Ab<g ref="char:EOLhyphen"/>ſolon,</hi> and then there ſhall be no lack of juſtice; if there be any here of this kidney, that love thus to be pecking at the little Mote (not only in their Bro<g ref="char:EOLhyphen"/>thers but) in their Fathers Eye, I would deſire them firſt to caſt out the great beam that is in their own Eye, Prejudice and Envy, Pride and Pragmatical<g ref="char:EOLhyphen"/>neſs, deſpiſing of Government, and ſpeaking evil of Dignities, and then when they have done this, they will be better able to diſcern of a good Biſhop, by <hi>St. Pauls</hi> Canons, and the Churches (the beſt rules that I know of, whereby to judge of ſuch a one.)<note place="margin">1 Tim. 3. 2, 3. <hi>&amp;c.</hi> Tit. 7. 8, 9.</note>
+            </p>
+            <p>And firſt let's lay our Prelate to the Apoſtolical Standard in the Epiſtles to <hi>Timothy</hi> and <hi>Titus;</hi> it is caution'd there, that a Biſhop muſt be blameleſs (that is) free from ſcandal, the Husband of one Wife, mo<g ref="char:EOLhyphen"/>derate in all his actions, as it is oppos'd, to diſtemper and giddineſs, (ſo I find Doctor <hi>Hammond</hi> upon the place, rendring the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) that he muſt be attending on his Offices, of Grave, Venerable Aſpect and Behaviour, apt to receive ſtrangers, and a Lo<g ref="char:EOLhyphen"/>ver of good Men.</p>
+            <p>That he muſt be no Hector, nor Tavern-haunter, no Uſurer of unjuſt Arts for gain, no <hi>Bowtefeau</hi> or Incendiary; ho ſmiter with Hand or Tongue; no Upſtart or Novice, but a Veterane Soldier, in the Faith of Chriſt. He muſt be apt to Teach, and have Learning ſufficient for Communication to an Order of Men; he muſt have clean Hands, fit to lay upon all Heads; he muſt have great wiſdom, to deal out portions to every Child and Servant in Gods
+<pb n="25" facs="tcp:49827:14"/>
+Houſe, and in his own Houſe too, there muſt be his godly example, and prudent influence. In a word, he muſt be one of a good report within, and with<g ref="char:EOLhyphen"/>out able—able to ſtop The mouths of all Gain-ſayers, by ſound Doctrine, and a ſober, righteous, and Godly Converſation.</p>
+            <p>Now in the judgement of Charity, you ought to be perſwaded, that your deceaſed Biſhop is already come out off at Chriſts Barr, according to this rule, and ſhall he not then much more do ſo at your petty Seſſions?</p>
+            <p>But I know your Evaſion, it is the Churches Ca<g ref="char:EOLhyphen"/>nons, and Laws, you would have your Eccleſiaſtical Governor to ſtand and fall by, and ſo he ſhall; if you will but leave your ſingular dogmatical Com<g ref="char:EOLhyphen"/>mentaries at home, and be ſo candid, as if you can find no fault, to make none. What truer Judication would you have of wiſe and good Government, than from its natural and proper effects? And for that mat<g ref="char:EOLhyphen"/>ter I dare appeal to your own obſervation, whether in any other Dioceſs of the Kingdom (<hi>Caeteris puri<g ref="char:EOLhyphen"/>bus</hi>) there be to be found a more ſober, regular, and Loyal Clergy, a more Conformable People, more decent, and well repaired Churches, and a greater alteration both of the Judgements and Manners of Men, ſince the late times of Anarchy and Confuſion which (is eſpecially viſible in the matter of the Sacra<g ref="char:EOLhyphen"/>ment) than in this Dioceſs. Reſolve this into its true Reaſon, and continue malevolent to the memory of him that's gone, if you can.</p>
+            <p>I have oft heard him expreſs his deſires, that the Churches Rules might be ſtrictly obſerved by him<g ref="char:EOLhyphen"/>ſelf,
+<pb n="26" facs="tcp:49827:15"/>
+and thoſe about him, and wherein there was a wilful failure, you nor I can't tell: unleſs you will pertinaciouſly inſiſt on the inciſion of the ſea<g ref="char:EOLhyphen"/>ſons of Viſitation and Confirmation, which (yet you all know) are Offices he did diſcharge when he was able to travel, and when he was not—that ſhould (one would think) ſerve as a ſufficient excuſe unto reaſonable Men—But what need I ſay more? now I think on't; the length of his Government is the only argument againſt it. I tell you, to ſit ſixteen years in the Chair is a great fault; and if it was true which one ſaid of any Long-liver, (<hi>Miraculi inſtar vite iter ſi longum ſine offenſione percurrere</hi>) That it was half a miracle, if ſuch a one ſhould live with<g ref="char:EOLhyphen"/>out offence: How much more is it likely to be true of Men in high places, eſpecially Churchmen, who have an inſeparable Envy attending upon them.</p>
+            <p>Therefore I paſs from the Bells and Pomegranats, on the skirts of his cloathing, to the glittering Jewels of <hi>Aarons</hi> Breaſt-plate. From his Goodneſs to his Ex<g ref="char:EOLhyphen"/>cellencies, which may be thus reckoned, his Learn<g ref="char:EOLhyphen"/>ing, Writing, Preaching, Living.</p>
+            <p>1. He was an excellent Scholar, he had a great ſtock of Natural Parts, and Endowments, to which he added an indefatigable Induſtry, and God gave a plentiful Benediction. What <hi>Melancthon</hi> was us'd to ſay—That himſelf was a <hi>Logician, Pomeranus a Gra<g ref="char:EOLhyphen"/>marian, Juſtin Jonas</hi> an <hi>Orator,</hi> but <hi>Luther</hi> was all; might be in a fuller way applyed to this perſon we are ſpeaking on. There are few kinds of Literature but he was a <hi>Myſtes</hi> in them. His skill in the <hi>Greek</hi>
+               <pb n="27" facs="tcp:49827:15"/>
+Tongue, got him his Fellowſhip in <hi>Merton</hi> Colledge in <hi>Oxford,</hi> in Sir <hi>Henry Savil's</hi> time: and what a rare Humaniſt he was, and how well vers'd in the Polite parts of Learning; his <hi>Juvenile</hi> Piece upon the <hi>Paſſi<g ref="char:EOLhyphen"/>ons</hi> abundantly teſtifies.</p>
+            <p>2. And indeed he was an admirable Writer, for Wit, Judgement, and Fancy, of all which there ſeems to be a curious mixture in his Books; maugre that obſervation of a great <hi>Virtuoſo,</hi> that there is requi<g ref="char:EOLhyphen"/>red a ſeveral Complexion for them.</p>
+            <p>3. Moreover, he was a Great Divine, and in his time a moſt celebrated Preacher. For his Divinity, I need onely to ſay, He was a true continuer of the name of <hi>Reynolds,</hi> in the Church of England; and for his Sermons, they have run the Gantlett through the Univerſities, Inns of Court, and City. They have met with the approbation, both of the Prince, and his People, Scholars, Gentlemen, and Citizens—all ranks of Men, have given their Honourable teſti<g ref="char:EOLhyphen"/>mony to them;</p>
+            <p>In ſumm, I may reckon him among thoſe happy men, <hi>Caius Plinius</hi> ſpeaks of (<hi>Quibus Deorum munere datumeſt aut facere ſcribenda aut ſcribere legenda</hi>) that either doe things worthy of Writing, or write things worthy of Reading, for he has done both: he was a man of God, throughly furniſhed to every good Word, and Work; he had the Art of Saving Souls, and the skill of making Sermons, if ever any had.</p>
+            <p>
+               <pb n="28" facs="tcp:49827:16"/>4. But above all, I muſt not forget the Virtues,<note place="margin">Prov. 16. 31.</note> and Graces, wherein he did excel; for he was as good a Liver, as he was either a Preacher or a Wri<g ref="char:EOLhyphen"/>ter. All his other good qualities were adorned—and both his greener and riper years, were ſeaſon'd with the Piety of a Saint; his Youth was not ob<g ref="char:EOLhyphen"/>ſerv'd to be ſtain'd with the Vices of that age; and when the Church brought him her Mitre, God had crown'd his Head before, according to that of <hi>Solo<g ref="char:EOLhyphen"/>mon, The hoary Head is a Crown of Glory, if it be found in the way of Righteouſneſs.</hi>
+            </p>
+            <list>
+               <item>But more par<g ref="char:EOLhyphen"/>ticularly his Humility are remarkable unto us.</item>
+               <item>But more par<g ref="char:EOLhyphen"/>ticularly his Meekneſs are remarkable unto us.</item>
+               <item>But more par<g ref="char:EOLhyphen"/>ticularly his Patience are remarkable unto us.</item>
+               <item>But more par<g ref="char:EOLhyphen"/>ticularly his Charity are remarkable unto us.</item>
+            </list>
+            <p>1. He was cloathed with Humility, as the Apoſtle<note place="margin">1 Per. 5. 5.</note> 
+               <hi>Peter</hi> exhorts; yea, 'twas his upper garment, and cover'd all the reſt of his accompliſhments—He had mean thoughts of himſelf, and was content that others ſhould have ſo too; and though his face ſhone, yet he would not know it. There was no Leaven of pride, or ill humor, or ſurlineſs, or ambition in him; no difficulty of acceſs, nor affectation of diſtance; if you had but the face of a Gentleman, or the habit of a Clergyman, all Ceremony muſt be laid aſide in order to converſe. Doubtleſs he was a great Judge of Learning, and yet the moſt candid Auditor of Sermons
+<pb n="29" facs="tcp:49827:16"/>
+in the world. He was never heard to cenſure any body, though he himſelf has not been ſpared. In this Virtue he was a true <hi>Nazianzen</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. High in place and merit, but lowly in mind and diſpoſition.</p>
+            <p>2. Neither was there wanting to him the ornament of a meek and quiet ſpirit, whereby he became a true Copy of the grand Exemplar, and Biſhop of our Souls, Chriſt Jeſus, whoſe word is, <hi>Learn of me, for I</hi>
+               <note place="margin">Matth. 11. 29.</note> 
+               <hi>am meek and lowly.</hi> 'Tis an uſual ſaying among ſome, <hi>Such a thing would vex a Saint:</hi> But truly what would vex, or ruffle, or diſcompoſe this holy man, was a hard matter to determine. 'Tis ſcarce remembred that ever he was ſeen in a paſſion. For 49 years to<g ref="char:EOLhyphen"/>gether (wherein he and his Conſort liv'd in marry'd ſtate) not many words worthy of the denomination of angry, have been obſerv'd to drop from him.</p>
+            <p>And now that this might not be put purely upon the account of natural temper, or voidneſs of gall, (as ſome late Inquirers into his Body did obſerve from that part) it would be conſider'd, whether he that underſtood the paſſions of the Soul ſo well as to write ſo learnedly on them as he did, could not alſo have practically thrown their force and vigor upon occaſion, if there had not been a ſuperior principle, and ſway of the Religion of Chriſt within him? This I can aſſure you, he had his ſhare both of injuries from Men, and of afflictions from God, and he was ſenſible of them; but alwayes with the preſervation of his Religious integrity, and the exerciſe of meek<g ref="char:EOLhyphen"/>neſs towards Men, and of patience towards God.</p>
+            <p>
+               <pb n="30" facs="tcp:49827:17"/>3. And now I am fallen upon that virtue too, I may truly ſay that in him Patience had her work. In this he ſeem'd to exceed the great pattern of my Text; though towards the latter end of his Life, his dayes were like <hi>Jobs,</hi> dayes of pain; and his nights like his too, nights of wearineſs, yet he never was heard to ſay to God, <hi>O that it would pleaſe God to de<g ref="char:EOLhyphen"/>ſtroy</hi> 
+               <note place="margin">Job 6. 9. cap. 7. 15.</note> 
+               <hi>me, that he would let looſe his hand, and cut me off; My Soul chooſeth ſtrangling, and death, rather than life.</hi> He knew that by Patience he was as well to wait, as to endure; and that he was to honour the Sovereign of his Life and Death as well by tarrying his leiſure, as by bearing his hand. His repeated Prayer to Heaven was, that in his utmoſt extremities he might not be provoked to ſpeak diſhonourably of God; and when through ſome fierce exacerbation of his diſeaſe, he was conſtrain'd to make ſome noiſe and outcry, he would preſently ſubjoin, <hi>Though he did roar, yet he did not murmur.</hi> Every Fit he was wont to call a Storm, and in the intermiſſion he would ſmile and diſcourſe, and pray, as if he were providing his tackling againſt the next Aſſault. His Patience was of the right ſtamp, not ſtoical, and ſullen, but purely Chriſtian, and grounded upon right principles. By the grace of the Goſpel, his Soul was ſet above the miſeries his fleſh lay under, and <hi>Moſes</hi> like, <hi>he endured, as ſeeing him</hi> 
+               <note place="margin">Heb. 11. 27.</note> 
+               <hi>that is inviſible.</hi> He knew with holy <hi>Job</hi> in my Text, <hi>That God would bring him to death</hi> at laſt, and ſo give him a Writ of eaſe; and with the ſame holy Man elſewhere he knew alſo, <hi>that his Redeemer lived,</hi> and would be his exceeding great reward.</p>
+            <p>
+               <pb n="31" facs="tcp:49827:17"/>4. Furthermore, as the complement of all thereſt, there was in this worthy Prelate a generous and ex<g ref="char:EOLhyphen"/>tenſive Love. He was come to the top of St <hi>Peter's</hi> 
+               <note place="margin">2 Pet. 1. 7.</note> Climax, <hi>Brotherly Kindneſs, and Charity.</hi> No man could ſay his Prayers with a better Spirit, for he was full of Love, and empty of Wrath and Rancor. He could give and forgive both at the ſame rate, <hi>Toties quoties,</hi> that is, as oft as there was need. He was not like that Biſhop I have ſomewhere read of, <hi>That would part with his bleſſing, but not with his money:</hi> for his pardon and his peace paſs'd from him to thoſe that ſtood in need, with equal freedom and chearfulneſs. His univerſal Charity in reference to the Perſons and Souls of Men, was ſo conſpicuous, that the world could not deny it, but was forc'd to miſcall it, Com<g ref="char:EOLhyphen"/>pliance. All the doubt may be concerning his Cha<g ref="char:EOLhyphen"/>rity to the Poor and Needy, with reference to their outward eſtates, becauſe the excellency of this virtue lies in the ſecreſie of its practice, according to the great Maſters Rules, whereof (as near as he could) he was a ſtrict obſerver. He was for <hi>giving of Alms,</hi> 
+               <note place="margin">Matth. 6. 1, 2, 3, 4.</note> but <hi>not with a Trumpet.</hi> He was for <hi>laying up his trea<g ref="char:EOLhyphen"/>ſure in Heaven, with him that ſees in ſecret, and rewards openly,</hi> and not in the eyes and ears, and tongues of men; Cheſts that have neither locks nor keyes to ſe<g ref="char:EOLhyphen"/>cure what is put into them. He was not for damming up his waters quite, till death ſhould break the bank, and cauſe them run down at laſt with a greater noiſe and torrent of oſtentation, but he was for their ſi<g ref="char:EOLhyphen"/>lent, pure, and uninterrupted motion in a conſtant, though narrower Channel, into broken Pitchers, and
+<pb n="32" facs="tcp:49827:18"/>
+empty Veſſels. Daily and hourly were the emana<g ref="char:EOLhyphen"/>tions of his Charity while he lived, but moſt of them running like ſtreams, under-ground, till he was dead<g ref="char:punc">▪</g> Many were the Gifts he ſcatter'd to the bringing up of poor Children to School; to the maintenance of poor Scholars in the Univerſity; to the ſupportation and encouragement of ancient foundations of Piety and Learning; to the relief of viſited places in his Dio<g ref="char:EOLhyphen"/>ceſs, in the time of the great Plague; to the ſupply of the wants of poor Miniſters Widows; to the aug<g ref="char:EOLhyphen"/>mentation of ſmall Vicarages in his Gift, not very much leſs than 300 <hi>l. per annum,</hi> being upon the Kings Letter by him ſetled to that uſe. And if to theſe you add the ſeveral ſhares that <hi>Southampton,</hi> the place in which he entred the world; <hi>Merton</hi> Colledge in <hi>Oxford,</hi> the place of his firſt Preferment; <hi>North<g ref="char:EOLhyphen"/>ampton,</hi> the place of his firſt Miniſterial employment; <hi>Norwich,</hi> the place in which he departed the world: I ſay if to the foregoing Accounts, you add the ſeve<g ref="char:EOLhyphen"/>ral ſhares which theſe places have had of his bounty, you cannot want a ſufficient evidence of his being rich in good Works, and abundantly Charitable; nor can any hereafter doubt of it, excepting ſuch as lookt upon his revenues with an ill eye, and ſo could not look upon his disburſements with a good one.</p>
+            <p>Thus far it appears he was an extraordinary perſon in his Life, and now that he might no leſs appear ſo in his Death, we may obſerve that therein God was plea<g ref="char:EOLhyphen"/>ſed to do him an extraordinary kindneſs, and make that which us'd to be to others a part of the puniſh<g ref="char:EOLhyphen"/>ment of their ſin, to be to him a part of his excellent
+<pb n="33" facs="tcp:49827:18"/>
+reward. The great <hi>Auguſtus</hi>'s wiſh was his enjoy<g ref="char:EOLhyphen"/>ment, an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a civil and well-natur'd death.</hi> The laſt Sand in the Hour-glaſs falls not with leſs difficulty than he expired with. There were no Noiſes, Groans, Convulſions, Cramps, diſtortion of the Looks, ſtaring with the Eyes, gnaſhing with the Teeth, in the laſt Scene of his Life. His paſſive Fortitude had been abundantly try'd before, and his active Graces de<g ref="char:EOLhyphen"/>monſtrated, and therefore the leſs need of either now. His meek Soul glided from him in a fine, impercepti<g ref="char:EOLhyphen"/>ble Vehicle, and he dyed much after the rate of the <hi>Rabbins</hi> talk concerning <hi>Moſes, Oſculo Oris Dei,</hi> as it were with a kiſs of Gods mouth. In ſum, the deſcri<g ref="char:EOLhyphen"/>ption of old <hi>Enoch</hi>'s life and death fits him well, <hi>He walked with God, and he was not: for God took</hi> 
+               <note place="margin">Gen. 5. 24.</note> 
+               <hi>him.</hi>
+            </p>
+            <p>By this time I have finiſh'd a plain Monument unto the memory of a good and excellent Perſon, our pre<g ref="char:EOLhyphen"/>ſent deceaſed Dioceſan; now to rail it in, and make it the more intemerate and inviolable to the moſt auda<g ref="char:EOLhyphen"/>cious hands, I ſhall beſeech you laſtly to conſider, This was the Man that bore the heat of the day for us; This was he that came to us in our gore and rubbiſh; This was he that entred our <hi>Augaean</hi> Stable in its filth, and reduc'd it to that degree of cleanlineſs wherein you now find it; This was he that carried us through the Wilderneſs, and has brought us to the brink of <hi>Jordan; Norwich</hi> was his <hi>Nebo,</hi> to this Mount he came, and here he dyed. And I ſhall beſeech you al<g ref="char:EOLhyphen"/>ſo to join in this Prayer,</p>
+            <p>
+               <pb n="34" facs="tcp:49827:19"/>
+               <hi>That the Spirit of the God of <hi>Elijah</hi> may be doub<g ref="char:EOLhyphen"/>led upon <hi>Eliſha;</hi> That a <hi>Joſhua</hi> may ariſe unto us after this our <hi>Moſes,</hi> one that may perfect Gods workupon us, one that may carry us over the River, one that may conquer the <hi>Canaanite</hi> for us, one that may ſee us ſetled in the promiſed and long ex<g ref="char:EOLhyphen"/>pected Land, <hi>viz.</hi> in Uniformity of Practice, in Peace of Mind, and in Proſperity of Condition.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49827:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
